@@ -13,8 +13,8 @@ Novice familiarity with JavaScript.
 
 ## Project 2
 
-[Becoming dangerous in JS + HTML + CSS](https://github.com/mikegagnon/lights-out/blob/master/README.md)
+The course: [Becoming dangerous in JS + HTML + CSS](https://github.com/mikegagnon/lights-out/blob/master/README.md)
 
-Build the Lights Out game.
+The game: [Lights Out](https://mikegagnon.github.io/lights-out/)
 
 ##
