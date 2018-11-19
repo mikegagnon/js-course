@@ -1,4 +1,4 @@
-# Course in Javascript Game Development
+# Course in JavaScript Game Development
 
 Improve your JS coding skills through a series of gaming projects, culminating
 in the development of a Chess AI.  The course
